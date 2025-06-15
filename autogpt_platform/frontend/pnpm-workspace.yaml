@@ -1,0 +1,9 @@
+onlyBuiltDependencies:
+  - '@scarf/scarf'
+  - '@sentry/cli'
+  - '@swc/core'
+  - core-js-pure
+  - esbuild
+  - msw
+  - sharp
+  - unrs-resolver
